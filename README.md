@@ -26,6 +26,12 @@ A beginner-friendly calculator built using **HTML**, **CSS**, and **JavaScript**
 4. Click the `=` button to calculate.
 5. The result or any relevant error will be shown below the inputs.
 
+## 🚀 Deployment
+
+Deployed with **GitHub Pages**:
+
+👉 [Live Demo](https://mustafa21102005.github.io/simple-js-calculator/)
+
 ## 📞 Contact
 
 Created by **[Mustafa](https://wa.me/966545117570)**
