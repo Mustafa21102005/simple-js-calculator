@@ -1,0 +1,22 @@
+h1,
+a {
+  color: #ff5c8a;
+}
+
+input {
+  background-color: #fae0e4;
+}
+
+.red {
+  color: red;
+  font: x-large bold;
+}
+
+.green {
+  color: green;
+  font: x-large bold;
+}
+
+body {
+  background-color: #fff2f4;
+}
